@@ -1,0 +1,2 @@
+# CtcMailTemplate
+Mail Template
